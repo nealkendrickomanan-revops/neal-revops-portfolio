@@ -17,9 +17,13 @@ CSV with duplicate contacts, inconsistent fields, and not ready for CRM import.
 ### Result
 Clean, deduplicated dataset that can be reliably imported into HubSpot without errors.
 
+### 📁 Sample Data (Before & After)
+- Before: messy CSV dataset (messy-leads-before.csv)  
+- After: cleaned, deduplicated dataset (cleaned-leads-after.csv)  
+
 ### 🎥 Loom Walkthrough
-- Loom 1 – CSV Data Clean: https://www.loom.com/share/e659a0ff1ec6443eb77b1da8e55a9fa1  
-- Loom 2 – HubSpot API Push: https://www.loom.com/share/01edbd670f334755a083062e50c37f4e  
+- Loom 1 – CSV Data Clean: [Watch here](https://www.loom.com/share/e659a0ff1ec6443eb77b1da8e55a9fa1)  
+- Loom 2 – HubSpot API Push: [Watch here](https://www.loom.com/share/01edbd670f334755a083062e50c37f4e)
 
 ---
 
