@@ -15,7 +15,7 @@ CSV with duplicate contacts, inconsistent fields, and not ready for CRM import.
 - Cleaned and structured data for CRM import  
 
 ### Result
-Clean, deduplicated dataset that can be reliably imported into HubSpot without errors.
+Sample dataset cleaned and structured, duplicates removed, fields standardized, import-ready.
 
 ### 📁 Sample Data (Before & After)
 - Before: messy CSV dataset (messy-leads-before.csv)  
