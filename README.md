@@ -4,6 +4,8 @@ I clean and structure messy CRM/CSV data so agencies can reliably import leads i
 
 ---
 
+> See the case study below. Certifications available in the repo for proof.
+
 ## 🔧 Case Study: CSV Cleanup → HubSpot-Ready Data
 
 ### Problem
@@ -18,8 +20,8 @@ CSV with duplicate contacts, inconsistent fields, and not ready for CRM import.
 Deduplicated across email and phone, fields standardized across all records, structured for direct HubSpot import.
 
 ### 📁 Sample Data (Before & After)
-- Before: messy CSV dataset (messy-leads-before.csv)  
-- After: cleaned, deduplicated dataset (cleaned-leads-after.csv)  
+- Before: messy CSV dataset (`messy-leads-before.csv`)  
+- After: cleaned, deduplicated dataset (`cleaned-leads-after.csv`)  
 
 ### 🎥 Loom Walkthrough
 - Loom 1 – CSV Data Clean: [Watch here](https://www.loom.com/share/e659a0ff1ec6443eb77b1da8e55a9fa1)  
@@ -28,9 +30,9 @@ Deduplicated across email and phone, fields standardized across all records, str
 ---
 
 ## ✅ What I Do
-- CSV cleanup (duplicates, formatting issues)
-- CRM data structuring
-- HubSpot import preparation
+- CSV cleanup (duplicates, formatting issues)  
+- CRM data structuring  
+- HubSpot import preparation  
 
 ---
 
@@ -48,4 +50,17 @@ Deduplicated across email and phone, fields standardized across all records, str
 - Messy CSV exports  
 - Failed HubSpot imports  
 
-I can clean and structure it so it works properly.
+I clean and structure it so it works properly.
+
+---
+
+## 📜 Certifications  
+→ [View Certifications](./Certifications)
+
+---
+
+## Next Step
+
+Dealing with messy HubSpot data?  
+→ [Connect on LinkedIn](https://www.linkedin.com/in/nealomanan/)  
+→ Or find me on Upwork
