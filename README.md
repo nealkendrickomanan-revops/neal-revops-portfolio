@@ -62,5 +62,5 @@ I clean and structure it so it works properly.
 ## Next Step
 
 Dealing with messy HubSpot data?  
-→ [Connect on LinkedIn](https://www.linkedin.com/in/nealomanan/)  
+→ [Message on LinkedIn](https://www.linkedin.com/in/nealomanan/)  
 → Or find me on Upwork
