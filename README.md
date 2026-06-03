@@ -63,6 +63,9 @@ Dealing with messy HubSpot data?
 → [Message on LinkedIn](https://www.linkedin.com/in/nealomanan/)
 → Or find me on Upwork
 
+
+### 📸 Screenshots
+
 <img width="910" height="613" alt="Screenshot of Raw Dataset" src="https://github.com/user-attachments/assets/d856f4e5-8293-4714-b200-701e799975b8" />
 <img width="905" height="618" alt="Screenshot of Cleaned Dataset" src="https://github.com/user-attachments/assets/5102cca6-fd6c-46ea-92db-10a69a7cb33d" />
 <img width="734" height="244" alt="Screenshot of Before-and-After Audit" src="https://github.com/user-attachments/assets/f14273c2-f66f-4e06-9a78-36f71af97650" />
