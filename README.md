@@ -70,6 +70,7 @@ Raw Dataset:
 Cleaned Dataset:
 <img width="905" height="618" alt="Screenshot of Cleaned Dataset" src="https://github.com/user-attachments/assets/5102cca6-fd6c-46ea-92db-10a69a7cb33d" />
 Before-and-After Audit:
+
 <img width="734" height="244" alt="Screenshot of Before-and-After Audit" src="https://github.com/user-attachments/assets/f14273c2-f66f-4e06-9a78-36f71af97650" />
 Successful HubSpot Import:
 <img width="1308" height="624" alt="Screenshot of Successful HubSpot Import" src="https://github.com/user-attachments/assets/2eaba859-c174-46c3-aeb9-68d610bd0ed9" />
