@@ -1,44 +1,44 @@
 first name,last name,email,company,phone,lifecycle stage,created at
 Jane,Smith,jane.smith@yahoo.com,-,+445551234567,customer,2024-01-29
 Mike,Garcia,mike.garcia@company.com,Acme Inc,+445551234567,marketingqualifiedlead,2022-04-10
-ANNA,Clark,anna.clark@gmail.com,-,+445551234567,customer,2023-09-26
+Anna,Clark,anna.clark@gmail.com,-,+445551234567,customer,2023-09-26
 Chris,Doe,chris.doe@test.con,Initech,+449171234567,customer,2024-05-04
 Jane,Lopez,jane.lopez@yahoo.com,Globex,+449171234567,marketingqualifiedlead,2022-10-04
 John,Johnson,john.johnson@test.con,Initech,+445551234567,lead,2024-07-24
 Alice,Clark,alice.clark@gmail.com,Globex,+445551234567,customer,2023-03-09
 David,Lee,david.lee@gmail.com,Hooli,+445551234567,customer,2024-06-25
-CHRIS,martinez,chris.martinez@company.com,Soylent,+445551234567,customer,2024-07-23
-CHRIS,Johnson,chris.johnson@gmail.com,Acme Inc,+449171234567,lead,2024-02-18
+Chris,Martinez,chris.martinez@company.com,Soylent,+445551234567,customer,2024-07-23
+Chris,Johnson,chris.johnson@gmail.com,Acme Inc,+449171234567,lead,2024-02-18
 David,Brown,david.brown@test.con,Globex,+445551234567,customer,2022-11-16
-DAVID,Davis,david.davis@company.com,Acme Inc,+445551234567,customer,2022-08-14
-JOHN,Garcia,john.garcia@test.con,Globex,+445551234567,customer,2024-08-15
-MIKE,Johnson,mike.johnson@company.com,Umbrella Corp,+449171234567,marketingqualifiedlead,2024-06-03
+David,Davis,david.davis@company.com,Acme Inc,+445551234567,customer,2022-08-14
+John,Garcia,john.garcia@test.con,Globex,+445551234567,customer,2024-08-15
+Mike,Johnson,mike.johnson@company.com,Umbrella Corp,+449171234567,marketingqualifiedlead,2024-06-03
 John,Martinez,john.martinez@gmail.com,Globex,+445551234567,lead,2023-07-04
 Jane,Davis,jane.davis@gmail.com,Acme Inc,+445551234567,lead,2024-08-06
-MIKE,smith,mike.smith@test.con,Initech,+449171234567,marketingqualifiedlead,2023-03-10
-ANNA,Brown,anna.brown@gmail.com,Soylent,+445551234567,customer,2022-11-18
-DAVID,Brown,david.brown@yahoo.com,Acme Inc,+445551234567,customer,2024-06-01
+Mike,Smith,mike.smith@test.con,Initech,+449171234567,marketingqualifiedlead,2023-03-10
+Anna,Brown,anna.brown@gmail.com,Soylent,+445551234567,customer,2022-11-18
+David,Brown,david.brown@yahoo.com,Acme Inc,+445551234567,customer,2024-06-01
 Chris,Davis,chris.davis@gmail.com,Acme Inc,+449171234567,customer,2023-07-31
 Sara,Doe,sara.doe@yahoo.com,Umbrella Corp,+445551234567,customer,2024-04-06
 Chris,Clark,chris.clark@gmail.com,Acme Inc,+449171234567,marketingqualifiedlead,2022-02-15
 Alice,Davis,alice.davis@gmail.com,Acme Inc,+445551234567,customer,2024-07-14
-ALICE,Martinez,alice.martinez@gmail.com,Initech,+445551234567,customer,2022-09-13
+Alice,Martinez,alice.martinez@gmail.com,Initech,+445551234567,customer,2022-09-13
 Mike,Lopez,mike.lopez@yahoo.com,Stark Industries,+445551234567,lead,2024-06-21
 Mike,Johnson,mike.johnson@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2022-08-16
-BOB,johnson,bob.johnson@company.com,Initech,+445551234567,marketingqualifiedlead,2022-12-26
-SARA,Smith,sara.smith@yahoo.com,Soylent,+445551234567,lead,2022-04-22
-EMILY,Clark,emily.clark@yahoo.com,Initech,+445551234567,customer,2023-03-23
+Bob,Johnson,bob.johnson@company.com,Initech,+445551234567,marketingqualifiedlead,2022-12-26
+Sara,Smith,sara.smith@yahoo.com,Soylent,+445551234567,lead,2022-04-22
+Emily,Clark,emily.clark@yahoo.com,Initech,+445551234567,customer,2023-03-23
 Bob,Garcia,bob.garcia@company.com,Soylent,+445551234567,customer,2024-05-18
 Mike,Garcia,mike.garcia@yahoo.com,Globex,+449171234567,customer,2024-08-20
 David,Davis,david.davis@yahoo.com,Hooli,+445551234567,marketingqualifiedlead,2023-06-12
-Bob,lee,bob.lee@gmail.com,Acme Inc,+445551234567,marketingqualifiedlead,2023-09-18
-Mike,davis,mike.davis@gmail.com,Stark Industries,+445551234567,marketingqualifiedlead,2022-08-13
-David,johnson,david.johnson@yahoo.com,Stark Industries,+449171234567,customer,2023-06-28
+Bob,Lee,bob.lee@gmail.com,Acme Inc,+445551234567,marketingqualifiedlead,2023-09-18
+Mike,Davis,mike.davis@gmail.com,Stark Industries,+445551234567,marketingqualifiedlead,2022-08-13
+David,Johnson,david.johnson@yahoo.com,Stark Industries,+449171234567,customer,2023-06-28
 Emily,Clark,emily.clark@test.con,Globex,+449171234567,marketingqualifiedlead,2022-09-23
-Anna,johnson,anna.johnson@company.com,Globex,+445551234567,marketingqualifiedlead,2022-11-24
-John,lopez,john.lopez@company.com,Initech,+449171234567,marketingqualifiedlead,2023-07-06
+Anna,Johnson,anna.johnson@company.com,Globex,+445551234567,marketingqualifiedlead,2022-11-24
+John,Lopez,john.lopez@company.com,Initech,+449171234567,marketingqualifiedlead,2023-07-06
 Anna,Johnson,anna.johnson@test.con,Initech,+449171234567,customer,2022-06-19
-Mike,lopez,mike.lopez@test.con,Globex,+449171234567,lead,2022-02-21
+Mike,Lopez,mike.lopez@test.con,Globex,+449171234567,lead,2022-02-21
 Mike,Lee,mike.lee@company.com,Stark Industries,+445551234567,marketingqualifiedlead,2022-01-20
 Emily,Smith,emily.smith@company.com,Acme Inc,+445551234567,lead,2024-05-19
 Anna,Brown,anna.brown@company.com,Soylent,+449171234567,marketingqualifiedlead,2023-03-23
@@ -47,174 +47,174 @@ Chris,Garcia,chris.garcia@company.com,Soylent,+445551234567,customer,2024-08-28
 Bob,Davis,bob.davis@gmail.com,Acme Inc,+445551234567,lead,2023-02-19
 Chris,Brown,chris.brown@gmail.com,Stark Industries,+445551234567,customer,2022-10-19
 David,Martinez,david.martinez@yahoo.com,Stark Industries,+449171234567,marketingqualifiedlead,2024-07-19
-EMILY,Lopez,emily.lopez@gmail.com,Stark Industries,+445551234567,customer,2022-08-05
+Emily,Lopez,emily.lopez@gmail.com,Stark Industries,+445551234567,customer,2022-08-05
 Bob,Lee,bob.lee@yahoo.com,Umbrella Corp,+445551234567,customer,2022-08-19
 David,Davis,david.davis@test.con,Hooli,+445551234567,customer,2022-09-14
 Emily,Lopez,emily.lopez@company.com,Soylent,+445551234567,lead,2023-04-27
 Emily,Martinez,emily.martinez@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2022-12-08
 David,Smith,david.smith@test.con,Acme Inc,+445551234567,customer,2023-01-06
 Bob,Lee,bob.lee@test.con,Hooli,+449171234567,lead,2022-01-30
-David,smith,david.smith@gmail.com,Umbrella Corp,+445551234567,customer,2024-05-02
+David,Smith,david.smith@gmail.com,Umbrella Corp,+445551234567,customer,2024-05-02
 Chris,Martinez,chris.martinez@yahoo.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2022-07-15
 Alice,Doe,alice.doe@company.com,Soylent,+449171234567,customer,2022-03-24
-EMILY,brown,emily.brown@test.con,Soylent,+445551234567,marketingqualifiedlead,2024-07-23
+Emily,Brown,emily.brown@test.con,Soylent,+445551234567,marketingqualifiedlead,2024-07-23
 Chris,Smith,chris.smith@company.com,Hooli,+445551234567,lead,2023-03-29
-Chris,davis,chris.davis@test.con,Stark Industries,+449171234567,lead,2022-08-31
+Chris,Davis,chris.davis@test.con,Stark Industries,+449171234567,lead,2022-08-31
 Bob,Lopez,bob.lopez@yahoo.com,Soylent,+445551234567,customer,2024-02-13
 David,Garcia,david.garcia@yahoo.com,Initech,+449171234567,marketingqualifiedlead,2024-02-04
 Bob,Martinez,bob.martinez@company.com,Acme Inc,+449171234567,lead,2022-09-28
 Chris,Lopez,chris.lopez@company.com,Acme Inc,+445551234567,marketingqualifiedlead,2022-01-26
 Bob,Doe,bob.doe@company.com,Hooli,+449171234567,lead,2022-05-24
-Jane,johnson,jane.johnson@test.con,Initech,+449171234567,customer,2024-01-31
+Jane,Johnson,jane.johnson@test.con,Initech,+449171234567,customer,2024-01-31
 Anna,Lopez,anna.lopez@gmail.com,Hooli,+445551234567,lead,2023-03-31
 Sara,Clark,sara.clark@gmail.com,Umbrella Corp,+445551234567,lead,2024-09-18
-Bob,lopez,bob.lopez@company.com,Globex,+445551234567,customer,2022-07-30
-JOHN,Brown,john.brown@yahoo.com,Soylent,+445551234567,lead,2022-06-28
-Jane,garcia,jane.garcia@company.com,Soylent,+445551234567,marketingqualifiedlead,2023-09-04
+Bob,Lopez,bob.lopez@company.com,Globex,+445551234567,customer,2022-07-30
+John,Brown,john.brown@yahoo.com,Soylent,+445551234567,lead,2022-06-28
+Jane,Garcia,jane.garcia@company.com,Soylent,+445551234567,marketingqualifiedlead,2023-09-04
 Jane,Clark,jane.clark@test.con,Globex,+449171234567,marketingqualifiedlead,2024-04-27
-Sara,lee,sara.lee@test.con,Acme Inc,+445551234567,lead,2022-04-06
+Sara,Lee,sara.lee@test.con,Acme Inc,+445551234567,lead,2022-04-06
 David,Smith,david.smith@company.com,Hooli,+445551234567,marketingqualifiedlead,2022-12-29
 Sara,Doe,sara.doe@test.con,Stark Industries,+445551234567,customer,2024-08-09
 John,Doe,john.doe@test.con,Soylent,+449171234567,marketingqualifiedlead,2022-10-07
 Chris,Lopez,chris.lopez@gmail.com,Globex,+449171234567,customer,2022-02-26
-Chris,lee,chris.lee@test.con,Globex,+445551234567,marketingqualifiedlead,2023-06-30
+Chris,Lee,chris.lee@test.con,Globex,+445551234567,marketingqualifiedlead,2023-06-30
 Emily,Martinez,emily.martinez@company.com,Hooli,+445551234567,lead,2022-12-08
 Bob,Garcia,bob.garcia@yahoo.com,Globex,+445551234567,lead,2022-09-20
 Jane,Brown,jane.brown@test.con,Stark Industries,+449171234567,customer,2024-08-04
 Sara,Brown,sara.brown@company.com,Stark Industries,+445551234567,customer,2022-02-27
-John,garcia,john.garcia@gmail.com,-,+449171234567,marketingqualifiedlead,2023-08-18
-Sara,lopez,sara.lopez@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2024-01-02
+John,Garcia,john.garcia@gmail.com,-,+449171234567,marketingqualifiedlead,2023-08-18
+Sara,Lopez,sara.lopez@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2024-01-02
 Jane,Lopez,jane.lopez@company.com,Hooli,+449171234567,lead,2023-09-02
-Anna,johnson,anna.johnson@gmail.com,test,+445551234567,customer,2024-02-29
-Emily,brown,emily.brown@yahoo.com,Stark Industries,+445551234567,customer,2023-03-25
+Anna,Johnson,anna.johnson@gmail.com,test,+445551234567,customer,2024-02-29
+Emily,Brown,emily.brown@yahoo.com,Stark Industries,+445551234567,customer,2023-03-25
 Anna,Lopez,anna.lopez@test.con,Globex,+445551234567,marketingqualifiedlead,2024-09-15
 Emily,Davis,emily.davis@test.con,Soylent,+449171234567,lead,2024-04-16
 Mike,Doe,mike.doe@test.con,Initech,+445551234567,marketingqualifiedlead,2022-02-24
-SARA,Johnson,sara.johnson@company.com,Stark Industries,+445551234567,lead,2022-02-09
+Sara,Johnson,sara.johnson@company.com,Stark Industries,+445551234567,lead,2022-02-09
 Anna,Davis,anna.davis@gmail.com,Initech,+445551234567,lead,2023-07-16
-Bob,brown,bob.brown@company.com,Globex,+449171234567,lead,2023-11-12
+Bob,Brown,bob.brown@company.com,Globex,+449171234567,lead,2023-11-12
 Sara,Doe,sara.doe@gmail.com,Stark Industries,+445551234567,lead,2022-02-15
 David,Martinez,david.martinez@company.com,Acme Inc,+445551234567,marketingqualifiedlead,2023-01-01
 Sara,Martinez,sara.martinez@test.con,Initech,+445551234567,marketingqualifiedlead,2023-12-10
-JANE,Martinez,jane.martinez@yahoo.com,Soylent,+445551234567,marketingqualifiedlead,2022-04-16
+Jane,Martinez,jane.martinez@yahoo.com,Soylent,+445551234567,marketingqualifiedlead,2022-04-16
 Mike,Brown,mike.brown@gmail.com,Hooli,+445551234567,customer,2023-03-22
 Mike,Garcia,mike.garcia@gmail.com,Acme Inc,+445551234567,marketingqualifiedlead,2023-06-15
 Sara,Clark,sara.clark@yahoo.com,Globex,+449171234567,lead,2023-01-05
-ALICE,Lee,alice.lee@yahoo.com,Initech,+445551234567,lead,2022-09-14
+Alice,Lee,alice.lee@yahoo.com,Initech,+445551234567,lead,2022-09-14
 Chris,Lopez,chris.lopez@yahoo.com,Soylent,+445551234567,lead,2023-11-06
-Emily,smith,emily.smith@gmail.com,Hooli,+445551234567,customer,2022-08-04
+Emily,Smith,emily.smith@gmail.com,Hooli,+445551234567,customer,2022-08-04
 David,Lee,david.lee@yahoo.com,Stark Industries,+449171234567,marketingqualifiedlead,2023-04-10
-Jane,lee,jane.lee@gmail.com,Initech,+449171234567,customer,2023-03-05
-EMILY,Garcia,emily.garcia@company.com,Soylent,+445551234567,customer,2024-04-28
-Emily,lopez,emily.lopez@test.con,Globex,+449171234567,lead,2024-04-21
+Jane,Lee,jane.lee@gmail.com,Initech,+449171234567,customer,2023-03-05
+Emily,Garcia,emily.garcia@company.com,Soylent,+445551234567,customer,2024-04-28
+Emily,Lopez,emily.lopez@test.con,Globex,+449171234567,lead,2024-04-21
 Bob,Smith,bob.smith@test.con,Hooli,+445551234567,marketingqualifiedlead,2023-05-29
 John,Brown,john.brown@test.con,Soylent,+449171234567,marketingqualifiedlead,2024-09-06
 Anna,Garcia,anna.garcia@company.com,Initech,+445551234567,customer,2023-11-24
-ALICE,Lee,alice.lee@gmail.com,Initech,+449171234567,customer,2022-09-20
-SARA,Davis,sara.davis@gmail.com,Soylent,+445551234567,marketingqualifiedlead,2023-10-31
-Mike,brown,mike.brown@test.con,Stark Industries,+449171234567,lead,2024-08-17
-John,lee,john.lee@company.com,Initech,+449171234567,customer,2023-07-11
-ANNA,lee,anna.lee@yahoo.com,Hooli,+449171234567,customer,2022-09-21
-Anna,garcia,anna.garcia@test.con,test,+449171234567,marketingqualifiedlead,2024-09-03
+Alice,Lee,alice.lee@gmail.com,Initech,+449171234567,customer,2022-09-20
+Sara,Davis,sara.davis@gmail.com,Soylent,+445551234567,marketingqualifiedlead,2023-10-31
+Mike,Brown,mike.brown@test.con,Stark Industries,+449171234567,lead,2024-08-17
+John,Lee,john.lee@company.com,Initech,+449171234567,customer,2023-07-11
+Anna,Lee,anna.lee@yahoo.com,Hooli,+449171234567,customer,2022-09-21
+Anna,Garcia,anna.garcia@test.con,test,+449171234567,marketingqualifiedlead,2024-09-03
 Bob,Smith,bob.smith@yahoo.com,Umbrella Corp,+445551234567,customer,2022-05-01
-Bob,lopez,bob.lopez@test.con,Soylent,+445551234567,lead,2024-07-28
-BOB,Lopez,bob.lopez@gmail.com,Soylent,+445551234567,lead,2024-08-14
+Bob,Lopez,bob.lopez@test.con,Soylent,+445551234567,lead,2024-07-28
+Bob,Lopez,bob.lopez@gmail.com,Soylent,+445551234567,lead,2024-08-14
 Mike,Garcia,mike.garcia@test.con,Umbrella Corp,+445551234567,customer,2024-09-14
 Jane,Brown,jane.brown@yahoo.com,Hooli,+445551234567,lead,2024-02-14
 Bob,Clark,bob.clark@gmail.com,Globex,+445551234567,lead,2024-04-15
-Alice,martinez,alice.martinez@company.com,Hooli,+449171234567,customer,2022-11-23
+Alice,Martinez,alice.martinez@company.com,Hooli,+449171234567,customer,2022-11-23
 Bob,Doe,bob.doe@yahoo.com,Hooli,+445551234567,marketingqualifiedlead,2024-07-26
 David,Garcia,david.garcia@test.con,Umbrella Corp,+445551234567,customer,2023-04-26
 Anna,Clark,anna.clark@company.com,Stark Industries,+449171234567,customer,2023-10-20
 Mike,Brown,mike.brown@yahoo.com,Acme Inc,+445551234567,customer,2023-04-12
-ANNA,Davis,anna.davis@test.con,Acme Inc,+445551234567,customer,2024-01-10
+Anna,Davis,anna.davis@test.con,Acme Inc,+445551234567,customer,2024-01-10
 Emily,Martinez,emily.martinez@test.con,Stark Industries,+445551234567,customer,2024-01-12
 Chris,Brown,chris.brown@yahoo.com,Hooli,+449171234567,marketingqualifiedlead,2023-01-05
-SARA,Martinez,sara.martinez@gmail.com,Hooli,+445551234567,customer,2023-06-18
-CHRIS,davis,chris.davis@company.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2024-03-12
+Sara,Martinez,sara.martinez@gmail.com,Hooli,+445551234567,customer,2023-06-18
+Chris,Davis,chris.davis@company.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2024-03-12
 Anna,Lopez,anna.lopez@yahoo.com,Initech,+445551234567,marketingqualifiedlead,2022-12-07
 Anna,Lopez,anna.lopez@company.com,Stark Industries,+449171234567,marketingqualifiedlead,2022-04-27
 David,Smith,david.smith@yahoo.com,Umbrella Corp,+445551234567,customer,2022-03-12
 John,Lopez,john.lopez@test.con,Stark Industries,+445551234567,marketingqualifiedlead,2022-04-19
 David,Lopez,david.lopez@company.com,Unknown,+449171234567,customer,2023-08-26
-ANNA,garcia,anna.garcia@gmail.com,Acme Inc,+445551234567,customer,2022-04-22
-David,brown,david.brown@gmail.com,Initech,+449171234567,customer,2024-09-16
+Anna,Garcia,anna.garcia@gmail.com,Acme Inc,+445551234567,customer,2022-04-22
+David,Brown,david.brown@gmail.com,Initech,+449171234567,customer,2024-09-16
 Jane,Garcia,jane.garcia@yahoo.com,Stark Industries,+445551234567,customer,2023-08-28
-ALICE,Clark,alice.clark@yahoo.com,Initech,+449171234567,customer,2022-02-24
+Alice,Clark,alice.clark@yahoo.com,Initech,+449171234567,customer,2022-02-24
 Mike,Clark,mike.clark@test.con,Umbrella Corp,+449171234567,marketingqualifiedlead,2022-06-21
 John,Lee,john.lee@test.con,Soylent,+449171234567,customer,2023-06-08
-Sara,clark,sara.clark@test.con,Soylent,+445551234567,marketingqualifiedlead,2022-04-15
+Sara,Clark,sara.clark@test.con,Soylent,+445551234567,marketingqualifiedlead,2022-04-15
 John,Davis,john.davis@gmail.com,Umbrella Corp,+445551234567,lead,2022-08-03
 Alice,Brown,alice.brown@yahoo.com,Stark Industries,+449171234567,marketingqualifiedlead,2022-05-26
 Jane,Doe,jane.doe@company.com,Umbrella Corp,+449171234567,marketingqualifiedlead,2023-08-19
 Alice,Lopez,alice.lopez@gmail.com,Acme Inc,+445551234567,customer,2024-03-13
 Anna,Smith,anna.smith@yahoo.com,Hooli,+445551234567,lead,2024-06-14
-DAVID,Davis,david.davis@gmail.com,Stark Industries,+449171234567,customer,2022-05-16
+David,Davis,david.davis@gmail.com,Stark Industries,+449171234567,customer,2022-05-16
 Jane,Doe,jane.doe@yahoo.com,Umbrella Corp,+445551234567,customer,2023-11-25
 Alice,Davis,alice.davis@yahoo.com,Umbrella Corp,+449171234567,lead,2022-03-30
-Sara,martinez,sara.martinez@company.com,Hooli,+445551234567,lead,2023-07-21
+Sara,Martinez,sara.martinez@company.com,Hooli,+445551234567,lead,2023-07-21
 John,Lee,john.lee@yahoo.com,Hooli,+449171234567,marketingqualifiedlead,2023-10-24
 Mike,Doe,mike.doe@gmail.com,Soylent,+445551234567,marketingqualifiedlead,2024-08-14
 David,Lee,david.lee@test.con,Umbrella Corp,+449171234567,lead,2023-10-18
 Jane,Clark,jane.clark@yahoo.com,Soylent,+445551234567,marketingqualifiedlead,2023-08-24
-ALICE,doe,alice.doe@gmail.com,Globex,+449171234567,marketingqualifiedlead,2023-06-20
+Alice,Doe,alice.doe@gmail.com,Globex,+449171234567,marketingqualifiedlead,2023-06-20
 Emily,Lee,emily.lee@company.com,asdf,+449171234567,lead,2024-01-21
 John,Johnson,john.johnson@gmail.com,Initech,+445551234567,customer,2023-01-21
-Bob,martinez,bob.martinez@yahoo.com,Hooli,+445551234567,lead,2022-02-14
+Bob,Martinez,bob.martinez@yahoo.com,Hooli,+445551234567,lead,2022-02-14
 Alice,Johnson,alice.johnson@test.con,Hooli,+445551234567,marketingqualifiedlead,2023-04-09
-EMILY,doe,emily.doe@test.con,Initech,+449171234567,lead,2023-07-03
-CHRIS,Doe,chris.doe@company.com,Stark Industries,+445551234567,lead,2024-05-05
-ALICE,Doe,alice.doe@yahoo.com,Globex,+445551234567,marketingqualifiedlead,2023-01-17
+Emily,Doe,emily.doe@test.con,Initech,+449171234567,lead,2023-07-03
+Chris,Doe,chris.doe@company.com,Stark Industries,+445551234567,lead,2024-05-05
+Alice,Doe,alice.doe@yahoo.com,Globex,+445551234567,marketingqualifiedlead,2023-01-17
 Alice,Smith,alice.smith@company.com,Umbrella Corp,+449171234567,customer,2023-05-06
 David,Johnson,david.johnson@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2023-07-12
 Alice,Johnson,alice.johnson@company.com,Soylent,+445551234567,customer,2023-12-19
 Emily,Johnson,emily.johnson@yahoo.com,Stark Industries,+445551234567,lead,2022-01-23
 Jane,Garcia,jane.garcia@test.con,Hooli,+445551234567,marketingqualifiedlead,2024-08-23
 Anna,Doe,anna.doe@test.con,Hooli,+445551234567,lead,2023-10-20
-ALICE,Davis,alice.davis@company.com,Globex,+445551234567,customer,2022-03-05
-JANE,Davis,jane.davis@yahoo.com,Stark Industries,+445551234567,lead,2022-02-13
+Alice,Davis,alice.davis@company.com,Globex,+445551234567,customer,2022-03-05
+Jane,Davis,jane.davis@yahoo.com,Stark Industries,+445551234567,lead,2022-02-13
 John,Lopez,john.lopez@gmail.com,Umbrella Corp,+445551234567,lead,2023-08-04
 Sara,Smith,sara.smith@company.com,Initech,+449171234567,customer,2023-12-03
-JOHN,johnson,john.johnson@company.com,Hooli,+445551234567,marketingqualifiedlead,2023-01-13
+John,Johnson,john.johnson@company.com,Hooli,+445551234567,marketingqualifiedlead,2023-01-13
 John,Johnson,john.johnson@yahoo.com,Stark Industries,+449171234567,customer,2023-07-19
-John,smith,john.smith@yahoo.com,Soylent,+445551234567,lead,2022-09-16
+John,Smith,john.smith@yahoo.com,Soylent,+445551234567,lead,2022-09-16
 Chris,Martinez,chris.martinez@test.con,Initech,+445551234567,marketingqualifiedlead,2022-11-06
 John,Clark,john.clark@company.com,Soylent,+445551234567,marketingqualifiedlead,2023-12-02
 Sara,Lee,sara.lee@company.com,Globex,+445551234567,customer,2024-02-23
 David,Brown,david.brown@company.com,Hooli,+445551234567,customer,2024-07-10
-Emily,doe,emily.doe@gmail.com,Stark Industries,+449171234567,customer,2022-11-02
+Emily,Doe,emily.doe@gmail.com,Stark Industries,+449171234567,customer,2022-11-02
 Bob,Garcia,bob.garcia@test.con,Globex,+445551234567,customer,2022-07-04
-Mike,davis,mike.davis@yahoo.com,Unknown,+445551234567,lead,2024-07-02
+Mike,Davis,mike.davis@yahoo.com,Unknown,+445551234567,lead,2024-07-02
 Bob,Johnson,bob.johnson@yahoo.com,Acme Inc,+449171234567,customer,2023-08-26
 Mike,Smith,mike.smith@yahoo.com,Globex,+445551234567,customer,2023-06-01
-Jane,lopez,jane.lopez@gmail.com,Stark Industries,+445551234567,customer,2024-01-11
-Chris,lee,chris.lee@yahoo.com,Stark Industries,+445551234567,marketingqualifiedlead,2023-01-04
-SARA,Brown,sara.brown@test.con,Initech,+449171234567,customer,2024-05-21
+Jane,Lopez,jane.lopez@gmail.com,Stark Industries,+445551234567,customer,2024-01-11
+Chris,Lee,chris.lee@yahoo.com,Stark Industries,+445551234567,marketingqualifiedlead,2023-01-04
+Sara,Brown,sara.brown@test.con,Initech,+449171234567,customer,2024-05-21
 Bob,Davis,bob.davis@test.con,Globex,+445551234567,lead,2023-10-21
 Bob,Smith,bob.smith@company.com,Soylent,+445551234567,customer,2022-04-19
 Emily,Davis,emily.davis@yahoo.com,Hooli,+445551234567,customer,2024-04-14
 Mike,Lopez,mike.lopez@company.com,Stark Industries,+445551234567,customer,2024-01-25
-Chris,garcia,chris.garcia@yahoo.com,Soylent,+445551234567,customer,2022-04-29
-DAVID,Lopez,david.lopez@yahoo.com,Initech,+449171234567,lead,2023-12-01
-DAVID,clark,david.clark@yahoo.com,Stark Industries,+449171234567,lead,2022-07-30
+Chris,Garcia,chris.garcia@yahoo.com,Soylent,+445551234567,customer,2022-04-29
+David,Lopez,david.lopez@yahoo.com,Initech,+449171234567,lead,2023-12-01
+David,Clark,david.clark@yahoo.com,Stark Industries,+449171234567,lead,2022-07-30
 Emily,Johnson,emily.johnson@test.con,Unknown,+449171234567,marketingqualifiedlead,2022-11-20
 Sara,Smith,sara.smith@gmail.com,Acme Inc,+445551234567,customer,2023-09-03
-SARA,Garcia,sara.garcia@gmail.com,Initech,+445551234567,lead,2022-11-22
+Sara,Garcia,sara.garcia@gmail.com,Initech,+445551234567,lead,2022-11-22
 Emily,Brown,emily.brown@company.com,Umbrella Corp,+445551234567,lead,2022-11-17
-CHRIS,Garcia,chris.garcia@test.con,Umbrella Corp,+449171234567,marketingqualifiedlead,2024-03-04
+Chris,Garcia,chris.garcia@test.con,Umbrella Corp,+449171234567,marketingqualifiedlead,2024-03-04
 Jane,Clark,jane.clark@company.com,Soylent,+445551234567,marketingqualifiedlead,2023-11-01
-Emily,clark,emily.clark@gmail.com,Soylent,+445551234567,customer,2022-01-08
-SARA,Doe,sara.doe@company.com,Initech,+449171234567,customer,2023-01-10
+Emily,Clark,emily.clark@gmail.com,Soylent,+445551234567,customer,2022-01-08
+Sara,Doe,sara.doe@company.com,Initech,+449171234567,customer,2023-01-10
 Mike,Clark,mike.clark@company.com,Soylent,+449171234567,marketingqualifiedlead,2022-11-11
 Jane,Johnson,jane.johnson@yahoo.com,Acme Inc,+445551234567,customer,2023-02-15
-JANE,Lopez,jane.lopez@test.con,Soylent,+445551234567,customer,2024-09-13
-John,garcia,john.garcia@yahoo.com,Acme Inc,+445551234567,marketingqualifiedlead,2022-12-28
+Jane,Lopez,jane.lopez@test.con,Soylent,+445551234567,customer,2024-09-13
+John,Garcia,john.garcia@yahoo.com,Acme Inc,+445551234567,marketingqualifiedlead,2022-12-28
 David,Lopez,david.lopez@test.con,Soylent,+449171234567,lead,2024-02-15
 Emily,Smith,emily.smith@test.con,Hooli,+445551234567,customer,2023-12-20
 Sara,Johnson,sara.johnson@yahoo.com,Umbrella Corp,+445551234567,lead,2024-01-24
 Chris,Davis,chris.davis@yahoo.com,Umbrella Corp,+449171234567,lead,2023-03-06
 Anna,Brown,anna.brown@yahoo.com,Stark Industries,+445551234567,customer,2022-10-04
-Alice,davis,alice.davis@test.con,Globex,+445551234567,marketingqualifiedlead,2022-11-04
+Alice,Davis,alice.davis@test.con,Globex,+445551234567,marketingqualifiedlead,2022-11-04
 Alice,Smith,alice.smith@gmail.com,Umbrella Corp,+445551234567,marketingqualifiedlead,2023-01-05
 Sara,Lopez,sara.lopez@yahoo.com,Globex,+445551234567,lead,2024-01-16
-JANE,johnson,jane.johnson@gmail.com,Umbrella Corp,+445551234567,lead,2024-02-29
+Jane,Johnson,jane.johnson@gmail.com,Umbrella Corp,+445551234567,lead,2024-02-29
