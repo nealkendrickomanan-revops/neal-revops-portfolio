@@ -1,0 +1,481 @@
+First Name,Last Name,Email,Company,Phone,Lifecycle Stage,Created At
+Jane,Smith, jane.smith@yahoo.com ,-,+1 555 123 4567,Customer,Jan 29 2024
+Bob,Clark,,Umbrella Corp,5551234567,marketing qualified lead,08/27/2023
+Mike,Garcia,mike.garcia@company.com,Acme Inc,+1 555 123 4567,marketing qualified lead,04/10/2022
+ANNA,Clark,anna.clark@gmail.com,-,(555) 123-4567,Customer,09/26/2023
+Chris,Doe, chris.doe@test.con ,Initech,09171234567,Customer,05/04/2024
+Jane,Lopez,jane.lopez@yahoo.com,Globex,09171234567,marketing qualified lead,Oct 04 2022
+John,Johnson,john.johnson@test.con,Initech,+1 555 123 4567,Lead,Jul 24 2024
+MIKE,davis,mike.davis@gmail,Soylent,(555) 123-4567,Customer,08/22/2023
+Alice,Clark, alice.clark@gmail.com ,Globex,5551234567,Customer,Mar 09 2023
+David,Lee,david.lee@gmail.com,Hooli,+1 555 123 4567,Customer,Jun 25 2024
+CHRIS,martinez,chris.martinez@company.com,Soylent,5551234567,customer,2024-07-23
+EMILY,Johnson, emily.johnson@gmail ,Stark Industries,+1 555 123 4567,customer,11/28/2022
+CHRIS,Johnson,chris.johnson@gmail.com,Acme Inc,09171234567,lead,Feb 18 2024
+David,Brown,david.brown@test.con,Globex,5551234567,Customer,11/16/2022
+DAVID,Davis, david.davis@company.com ,Acme Inc,5551234567,customer,2022-08-14
+JOHN,Garcia,john.garcia@test.con,Globex,5551234567,Customer,Aug 15 2024
+MIKE,Johnson, mike.johnson@company.com ,Umbrella Corp,09171234567,marketing qualified lead,Jun 03 2024
+John,Martinez, john.martinez@gmail.com ,Globex,5551234567,Lead,07/04/2023
+Jane,Davis, jane.davis@gmail.com ,Acme Inc,+1 555 123 4567,lead,2024-08-06
+MIKE,smith,mike.smith@test.con,Initech,09171234567,MQL,Mar 10 2023
+ANNA,Brown, anna.brown@gmail.com ,Soylent,+1 555 123 4567,Customer,2022-11-18
+DAVID,Brown,david.brown@yahoo.com,Acme Inc,+1 555 123 4567,Customer,2024-06-01
+EMILY,lopez,emily.lopez@gmail,Soylent,(555) 123-4567,MQL,Jul 29 2022
+Chris,Davis, chris.davis@gmail.com ,Acme Inc,09171234567,customer,2023-07-31
+Sara,Doe,sara.doe@yahoo.com,Umbrella Corp,(555) 123-4567,customer,Apr 06 2024
+Jane,Brown,jane.brown@gmail,Globex,(555) 123-4567,MQL,2023-09-12
+Chris,Clark,chris.clark@gmail.com,Acme Inc,09171234567,MQL,2022-02-15
+Alice,Davis,alice.davis@gmail.com,Acme Inc,+1 555 123 4567,Customer,2024-07-14
+ALICE,Martinez, alice.martinez@gmail.com ,Initech,5551234567,Customer,Sep 13 2022
+Mike,Lopez, mike.lopez@yahoo.com ,Stark Industries,5551234567,Lead,06/21/2024
+Mike,Johnson,mike.johnson@gmail.com,Umbrella Corp,+1 555 123 4567,marketing qualified lead,2022-08-16
+BOB,johnson,bob.johnson@company.com,Initech,+1 555 123 4567,MQL,Dec 26 2022
+SARA,Smith,sara.smith@yahoo.com,Soylent,(555) 123-4567,lead,Apr 22 2022
+EMILY,Clark,emily.clark@yahoo.com,Initech,+1 555 123 4567,Customer,2023-03-23
+Bob,Garcia,bob.garcia@company.com,Soylent,(555) 123-4567,Customer,2024-05-18
+Mike,Garcia,mike.garcia@yahoo.com,Globex,09171234567,Customer,08/20/2024
+Chris,martinez,chris.martinez@company.com,Globex,09171234567,customer,Sep 14 2023
+David,Davis,david.davis@yahoo.com,Hooli,+1 555 123 4567,MQL,Jun 12 2023
+Bob,lee,bob.lee@gmail.com,Acme Inc,5551234567,marketing qualified lead,2023-09-18
+Mike,davis,mike.davis@gmail.com,Stark Industries,+1 555 123 4567,marketing qualified lead,2022-08-13
+David,johnson,david.johnson@yahoo.com,Stark Industries,09171234567,Customer,Jun 28 2023
+Emily,Clark,emily.clark@test.con,Globex,09171234567,marketing qualified lead,2022-09-23
+Anna,johnson, anna.johnson@company.com ,Globex,(555) 123-4567,MQL,Nov 24 2022
+ALICE,Johnson,alice.johnson@gmail,Umbrella Corp,09171234567,lead,07/31/2022
+John,lopez,john.lopez@company.com,Initech,09171234567,marketing qualified lead,Jul 06 2023
+Anna,Johnson,anna.johnson@test.con,Initech,09171234567,Customer,06/19/2022
+Mike,lopez,mike.lopez@test.con,Globex,09171234567,Lead,02/21/2022
+Mike,Lee,mike.lee@company.com,Stark Industries,+1 555 123 4567,marketing qualified lead,Jan 20 2022
+Jane,Smith, jane.smith@yahoo.com ,Stark Industries,+1 555 123 4567,customer,2022-06-06
+Bob,Davis,,Soylent,+1 555 123 4567,Lead,09/14/2024
+Mike,martinez,mike.martinez@gmail,Hooli,5551234567,lead,12/15/2023
+Emily,Smith,emily.smith@company.com,Acme Inc,(555) 123-4567,lead,05/19/2024
+Anna,Brown,anna.brown@company.com,Soylent,09171234567,marketing qualified lead,Mar 23 2023
+Jane,Lee,jane.lee@test.con,Soylent,09171234567,MQL,01/30/2022
+Chris,Garcia, chris.garcia@company.com ,Soylent,+1 555 123 4567,customer,2024-08-28
+Bob,Davis,bob.davis@gmail.com,Acme Inc,(555) 123-4567,Lead,Feb 19 2023
+David,Clark,david.clark@gmail,Initech,(555) 123-4567,Customer,04/10/2023
+Sara,Doe,sara.doe@yahoo.com,Globex,5551234567,Customer,05/11/2023
+Chris,Doe,,Globex,(555) 123-4567,lead,Dec 27 2023
+Chris,Brown,chris.brown@gmail.com,Stark Industries,+1 555 123 4567,customer,10/19/2022
+CHRIS,davis,,Acme Inc,+1 555 123 4567,Lead,Jun 02 2022
+David,Martinez,david.martinez@yahoo.com,Stark Industries,09171234567,marketing qualified lead,07/19/2024
+EMILY,Lopez,emily.lopez@gmail.com,Stark Industries,5551234567,Customer,08/05/2022
+JANE,Brown,jane.brown@gmail,Umbrella Corp,(555) 123-4567,lead,08/26/2022
+Bob,Lee, bob.lee@yahoo.com ,Umbrella Corp,+1 555 123 4567,customer,Aug 19 2022
+John,Brown,john.brown@gmail,Initech,09171234567,lead,Apr 25 2023
+David,Davis, david.davis@test.con ,Hooli,(555) 123-4567,customer,2022-09-14
+Emily,Lopez,emily.lopez@company.com,Soylent,+1 555 123 4567,Lead,Apr 27 2023
+Emily,Martinez,emily.martinez@gmail.com,Umbrella Corp,(555) 123-4567,marketing qualified lead,12/08/2022
+Anna,Lee,anna.lee@gmail,Acme Inc,09171234567,lead,11/19/2022
+David,Smith,david.smith@test.con,Acme Inc,5551234567,customer,Jan 06 2023
+Bob,Lee,bob.lee@test.con,Hooli,09171234567,lead,Jan 30 2022
+David,smith,david.smith@gmail.com,Umbrella Corp,+1 555 123 4567,Customer,2024-05-02
+Chris,Martinez,chris.martinez@yahoo.com,Umbrella Corp,5551234567,marketing qualified lead,Jul 15 2022
+Chris,Martinez,chris.martinez@company.com,Stark Industries,+1 555 123 4567,MQL,01/14/2024
+Alice,Davis,alice.davis@gmail,Stark Industries,09171234567,marketing qualified lead,08/13/2024
+Mike,Johnson,mike.johnson@company.com,Hooli,09171234567,Customer,07/24/2024
+Alice,davis,,Initech,+1 555 123 4567,marketing qualified lead,Apr 13 2022
+Alice,Doe,alice.doe@company.com,Soylent,09171234567,Customer,03/24/2022
+Sara,davis,,Globex,(555) 123-4567,Lead,2024-02-04
+JANE,Davis,jane.davis@gmail.com,Acme Inc,(555) 123-4567,lead,10/28/2022
+EMILY,brown, emily.brown@test.con ,Soylent,5551234567,marketing qualified lead,Jul 23 2024
+Chris,Smith,chris.smith@company.com,Hooli,5551234567,lead,03/29/2023
+Chris,davis,chris.davis@test.con,Stark Industries,09171234567,lead,08/31/2022
+Chris,Smith,chris.smith@company.com,Acme Inc,+1 555 123 4567,customer,02/03/2024
+Bob,Lopez,bob.lopez@yahoo.com,Soylent,(555) 123-4567,Customer,Feb 13 2024
+Jane,Smith,jane.smith@gmail,Initech,5551234567,lead,07/20/2024
+David,Garcia,david.garcia@yahoo.com,Initech,09171234567,MQL,02/04/2024
+Bob,Martinez, bob.martinez@company.com ,Acme Inc,09171234567,lead,Sep 28 2022
+Chris,Lopez,chris.lopez@company.com,Acme Inc,5551234567,marketing qualified lead,Jan 26 2022
+Bob,Doe,bob.doe@company.com,Hooli,09171234567,lead,2022-05-24
+Jane,johnson, jane.johnson@test.con ,Initech,09171234567,customer,Jan 31 2024
+Anna,Lopez,anna.lopez@gmail.com,Hooli,(555) 123-4567,Lead,03/31/2023
+Sara,Clark,sara.clark@gmail.com,Umbrella Corp,(555) 123-4567,Lead,2024-09-18
+Bob,lopez,bob.lopez@company.com,Globex,5551234567,customer,2022-07-30
+Bob,Garcia,bob.garcia@gmail,Acme Inc,(555) 123-4567,Lead,May 14 2022
+JOHN,Brown, john.brown@yahoo.com ,Soylent,(555) 123-4567,lead,06/28/2022
+Jane,Davis, jane.davis@gmail ,Acme Inc,09171234567,customer,Aug 15 2022
+David,Lee,david.lee@gmail.com,Umbrella Corp,09171234567,marketing qualified lead,2023-12-04
+Jane,garcia,jane.garcia@company.com,Soylent,(555) 123-4567,marketing qualified lead,Sep 04 2023
+Jane,Clark,jane.clark@test.con,Globex,09171234567,MQL,04/27/2024
+Sara,lee, sara.lee@test.con ,Acme Inc,+1 555 123 4567,lead,04/06/2022
+David,Smith,david.smith@company.com,Hooli,+1 555 123 4567,marketing qualified lead,Dec 29 2022
+John,Lee,john.lee@gmail,Soylent,5551234567,Lead,11/04/2023
+Sara,Doe,sara.doe@test.con,Stark Industries,+1 555 123 4567,customer,Aug 09 2024
+Chris,garcia,,Soylent,09171234567,lead,May 26 2022
+Bob,Martinez,bob.martinez@company.com,Initech,(555) 123-4567,customer,2023-09-03
+John,Doe,john.doe@test.con,Soylent,09171234567,marketing qualified lead,2022-10-07
+Chris,Lopez,chris.lopez@gmail.com,Globex,09171234567,customer,2022-02-26
+Chris,lee,chris.lee@test.con,Globex,5551234567,marketing qualified lead,Jun 30 2023
+Sara,Doe,sara.doe@test.con,Acme Inc,09171234567,lead,06/01/2024
+MIKE,lee, mike.lee@company.com ,Globex,09171234567,Customer,07/30/2024
+Emily,Martinez, emily.martinez@company.com ,Hooli,(555) 123-4567,Lead,2022-12-08
+Bob,Garcia, bob.garcia@yahoo.com ,Globex,+1 555 123 4567,Lead,2022-09-20
+Jane,Brown,jane.brown@test.con,Stark Industries,09171234567,Customer,Aug 04 2024
+Sara,Brown,sara.brown@company.com,Stark Industries,(555) 123-4567,customer,02/27/2022
+John,garcia,john.garcia@gmail.com,-,09171234567,marketing qualified lead,Aug 18 2023
+Sara,lopez,sara.lopez@gmail.com,Umbrella Corp,+1 555 123 4567,MQL,2024-01-02
+Anna,Davis,,Initech,(555) 123-4567,marketing qualified lead,02/23/2023
+Sara,Doe,sara.doe@test.con,Initech,(555) 123-4567,Customer,May 22 2024
+Jane,Lopez,jane.lopez@company.com,Hooli,09171234567,Lead,Sep 02 2023
+Sara,Brown,sara.brown@gmail,Acme Inc,09171234567,customer,2023-01-06
+Anna,johnson,anna.johnson@gmail.com,test,+1 555 123 4567,customer,Feb 29 2024
+Emily,brown,emily.brown@yahoo.com,Stark Industries,5551234567,Customer,2023-03-25
+Anna,Lopez,anna.lopez@test.con,Globex,5551234567,MQL,09/15/2024
+Emily,Davis,emily.davis@test.con,Soylent,09171234567,Lead,2024-04-16
+Anna,garcia,anna.garcia@gmail,Stark Industries,+1 555 123 4567,MQL,2022-03-27
+Mike,Doe,mike.doe@test.con,Initech,+1 555 123 4567,marketing qualified lead,02/24/2022
+SARA,Johnson,sara.johnson@company.com,Stark Industries,5551234567,Lead,02/09/2022
+Anna,Davis,anna.davis@gmail.com,Initech,5551234567,Lead,Jul 16 2023
+BOB,Lee,,Umbrella Corp,+1 555 123 4567,lead,05/06/2024
+Bob,brown, bob.brown@company.com ,Globex,09171234567,Lead,Nov 12 2023
+David,Clark,david.clark@gmail,Acme Inc,09171234567,marketing qualified lead,Feb 14 2022
+Sara,Doe,sara.doe@gmail.com,Stark Industries,(555) 123-4567,Lead,02/15/2022
+Anna,Davis, anna.davis@gmail.com ,test,09171234567,lead,2022-10-28
+David,Martinez,david.martinez@company.com,Acme Inc,5551234567,MQL,2023-01-01
+Sara,Martinez,sara.martinez@test.con,Initech,5551234567,marketing qualified lead,12/10/2023
+JANE,Martinez,jane.martinez@yahoo.com,Soylent,(555) 123-4567,MQL,2022-04-16
+Mike,Brown,mike.brown@gmail.com,Hooli,(555) 123-4567,customer,03/22/2023
+Mike,Garcia,,Acme Inc,5551234567,customer,11/26/2023
+Sara,Garcia,sara.garcia@gmail,Globex,09171234567,MQL,01/16/2023
+Mike,Garcia,mike.garcia@gmail.com,Acme Inc,5551234567,marketing qualified lead,06/15/2023
+Anna,Johnson,anna.johnson@test.con,Globex,+1 555 123 4567,Lead,2024-05-23
+Jane,Garcia,jane.garcia@gmail,Soylent,(555) 123-4567,MQL,2024-05-21
+Sara,Clark,sara.clark@yahoo.com,Globex,09171234567,lead,Jan 05 2023
+Alice,lopez,,Hooli,09171234567,customer,02/25/2023
+Jane,Davis,,Stark Industries,5551234567,Lead,Mar 20 2023
+ALICE,Lee,alice.lee@yahoo.com,Initech,(555) 123-4567,lead,2022-09-14
+Chris,Lopez,chris.lopez@yahoo.com,Soylent,5551234567,Lead,Nov 06 2023
+Emily,smith,emily.smith@gmail.com,Hooli,(555) 123-4567,Customer,Aug 04 2022
+David,Lee,david.lee@yahoo.com,Stark Industries,09171234567,MQL,2023-04-10
+Anna,johnson,anna.johnson@company.com,Hooli,(555) 123-4567,marketing qualified lead,05/14/2022
+Jane,lee,jane.lee@gmail.com,Initech,09171234567,customer,2023-03-05
+EMILY,garcia, emily.garcia@gmail ,Umbrella Corp,09171234567,MQL,2023-05-25
+Bob,johnson,bob.johnson@company.com,Umbrella Corp,09171234567,MQL,2023-07-04
+Sara,Martinez, sara.martinez@gmail ,Soylent,5551234567,MQL,07/21/2023
+Chris,lopez,chris.lopez@gmail.com,Umbrella Corp,(555) 123-4567,MQL,07/26/2023
+DAVID,smith,david.smith@company.com,Stark Industries,09171234567,customer,2023-04-13
+EMILY,Garcia,emily.garcia@company.com,Soylent,(555) 123-4567,customer,Apr 28 2024
+John,garcia,john.garcia@test.con,Soylent,(555) 123-4567,Customer,Jun 12 2024
+Emily,lopez,emily.lopez@test.con,Globex,09171234567,Lead,Apr 21 2024
+Bob,Smith,bob.smith@test.con,Hooli,5551234567,marketing qualified lead,May 29 2023
+John,Brown,john.brown@test.con,Soylent,09171234567,MQL,2024-09-06
+Chris,Lopez,chris.lopez@company.com,Soylent,(555) 123-4567,Lead,08/22/2024
+Anna,Garcia,anna.garcia@company.com,Initech,+1 555 123 4567,customer,Nov 24 2023
+ALICE,Lee,alice.lee@gmail.com,Initech,09171234567,Customer,Sep 20 2022
+DAVID,Lee,david.lee@gmail,Globex,5551234567,lead,Nov 17 2023
+SARA,Davis,sara.davis@gmail.com,Soylent,5551234567,marketing qualified lead,10/31/2023
+Sara,Lee,,Hooli,5551234567,customer,Jan 27 2024
+Mike,brown,mike.brown@test.con,Stark Industries,09171234567,Lead,Aug 17 2024
+John,lee,john.lee@company.com,Initech,09171234567,Customer,Jul 11 2023
+ANNA,lee, anna.lee@yahoo.com ,Hooli,09171234567,Customer,Sep 21 2022
+EMILY,Johnson,,Stark Industries,09171234567,customer,2022-12-02
+Anna,garcia,anna.garcia@test.con,test,09171234567,MQL,09/03/2024
+Bob,Smith,bob.smith@yahoo.com,Umbrella Corp,(555) 123-4567,Customer,May 01 2022
+Bob,Brown,bob.brown@gmail,Initech,09171234567,Customer,07/17/2023
+Bob,lopez, bob.lopez@test.con ,Soylent,(555) 123-4567,lead,Jul 28 2024
+Bob,lopez,,Umbrella Corp,+1 555 123 4567,Customer,Jul 30 2022
+JOHN,Davis,john.davis@gmail,Acme Inc,09171234567,Customer,04/06/2024
+BOB,Lopez, bob.lopez@gmail.com ,Soylent,+1 555 123 4567,lead,08/14/2024
+Mike,Garcia,mike.garcia@test.con,Umbrella Corp,+1 555 123 4567,Customer,Sep 14 2024
+Jane,Brown,jane.brown@yahoo.com,Hooli,5551234567,lead,2024-02-14
+Mike,Clark,,Initech,5551234567,MQL,Jul 13 2022
+Emily,smith,emily.smith@gmail,asdf,09171234567,customer,Nov 20 2023
+Bob,Clark,bob.clark@gmail.com,Globex,(555) 123-4567,Lead,Apr 15 2024
+Sara,johnson,sara.johnson@gmail,Globex,09171234567,MQL,2022-10-09
+Alice,martinez,alice.martinez@company.com,Hooli,09171234567,customer,Nov 23 2022
+David,Davis,david.davis@yahoo.com,Stark Industries,09171234567,lead,07/30/2023
+Bob,Lee,,Stark Industries,(555) 123-4567,lead,Jul 03 2023
+EMILY,lopez,emily.lopez@gmail,Hooli,5551234567,marketing qualified lead,08/02/2022
+Bob,Doe,bob.doe@yahoo.com,Hooli,5551234567,marketing qualified lead,2024-07-26
+David,Garcia,david.garcia@test.con,Umbrella Corp,+1 555 123 4567,Customer,04/26/2023
+Emily,johnson,emily.johnson@gmail,Soylent,09171234567,MQL,2022-06-06
+Anna,Clark,anna.clark@company.com,Stark Industries,09171234567,Customer,Oct 20 2023
+Alice,Brown,alice.brown@gmail,Hooli,+1 555 123 4567,customer,2022-02-04
+Mike,Brown, mike.brown@yahoo.com ,Acme Inc,5551234567,customer,04/12/2023
+ANNA,Davis,anna.davis@test.con,Acme Inc,+1 555 123 4567,customer,01/10/2024
+MIKE,brown,mike.brown@yahoo.com,Globex,5551234567,customer,06/24/2023
+Sara,Martinez,,Initech,+1 555 123 4567,Customer,May 28 2024
+DAVID,davis,david.davis@yahoo.com,Acme Inc,09171234567,marketing qualified lead,10/23/2023
+David,Smith,david.smith@gmail,Umbrella Corp,(555) 123-4567,lead,2024-08-04
+John,Brown,john.brown@yahoo.com,Soylent,5551234567,Customer,04/20/2024
+Emily,Martinez,emily.martinez@test.con,Stark Industries,5551234567,Customer,2024-01-12
+Mike,Johnson,mike.johnson@gmail,Soylent,09171234567,MQL,Jan 31 2022
+Sara,Clark,sara.clark@gmail,Hooli,09171234567,lead,Mar 01 2024
+Chris,Brown, chris.brown@yahoo.com ,Hooli,09171234567,MQL,2023-01-05
+CHRIS,doe,,Soylent,09171234567,lead,2022-01-27
+SARA,Martinez,sara.martinez@gmail.com,Hooli,5551234567,customer,2023-06-18
+CHRIS,davis,chris.davis@company.com,Umbrella Corp,(555) 123-4567,marketing qualified lead,2024-03-12
+Anna,Lopez,anna.lopez@yahoo.com,Initech,+1 555 123 4567,marketing qualified lead,Dec 07 2022
+MIKE,Lopez,mike.lopez@yahoo.com,Umbrella Corp,(555) 123-4567,Lead,09/14/2024
+Anna,Lopez, anna.lopez@company.com ,Stark Industries,09171234567,MQL,Apr 27 2022
+David,Smith,david.smith@yahoo.com,Umbrella Corp,(555) 123-4567,Customer,03/12/2022
+Chris,Brown,chris.brown@gmail.com,Umbrella Corp,09171234567,customer,Feb 15 2023
+David,Smith,david.smith@gmail,Soylent,+1 555 123 4567,lead,2024-02-27
+John,Lopez, john.lopez@test.con ,Stark Industries,(555) 123-4567,marketing qualified lead,2022-04-19
+David,Lopez,david.lopez@company.com,N/A,09171234567,Customer,Aug 26 2023
+Chris,martinez,chris.martinez@yahoo.com,Initech,(555) 123-4567,MQL,2023-04-12
+ANNA,garcia,anna.garcia@gmail.com,Acme Inc,(555) 123-4567,Customer,Apr 22 2022
+David,Brown, david.brown@test.con ,Umbrella Corp,5551234567,marketing qualified lead,2023-10-07
+Emily,Johnson,,Hooli,5551234567,Lead,Oct 13 2022
+David,brown,david.brown@gmail.com,Initech,09171234567,customer,Sep 16 2024
+Jane,Garcia,jane.garcia@yahoo.com,Stark Industries,(555) 123-4567,customer,2023-08-28
+Jane,brown, jane.brown@test.con ,Umbrella Corp,5551234567,customer,01/28/2023
+ALICE,Clark,alice.clark@yahoo.com,Initech,09171234567,customer,02/24/2022
+Mike,Clark,mike.clark@test.con,Umbrella Corp,09171234567,marketing qualified lead,2022-06-21
+John,Lee,john.lee@test.con,Soylent,09171234567,customer,2023-06-08
+Sara,clark,sara.clark@test.con,Soylent,5551234567,marketing qualified lead,Apr 15 2022
+John,Davis,john.davis@gmail.com,Umbrella Corp,+1 555 123 4567,Lead,Aug 03 2022
+Mike,Brown,mike.brown@yahoo.com,Stark Industries,+1 555 123 4567,customer,Dec 26 2022
+Chris,Lee,chris.lee@gmail,Hooli,+1 555 123 4567,Lead,09/12/2024
+Alice,Brown,alice.brown@yahoo.com,Stark Industries,09171234567,marketing qualified lead,May 26 2022
+Jane,Doe,jane.doe@company.com,Umbrella Corp,09171234567,MQL,2023-08-19
+Anna,Garcia,anna.garcia@test.con,Globex,09171234567,Lead,05/22/2023
+Alice,Lopez, alice.lopez@gmail.com ,Acme Inc,+1 555 123 4567,Customer,03/13/2024
+Anna,Smith, anna.smith@yahoo.com ,Hooli,(555) 123-4567,Lead,06/14/2024
+Alice,Smith,,Umbrella Corp,+1 555 123 4567,Customer,2022-04-08
+DAVID,Davis, david.davis@gmail.com ,Stark Industries,09171234567,Customer,05/16/2022
+Jane,Doe, jane.doe@yahoo.com ,Umbrella Corp,5551234567,Customer,2023-11-25
+Alice,Davis, alice.davis@yahoo.com ,Umbrella Corp,09171234567,Lead,2022-03-30
+Sara,martinez,sara.martinez@company.com,Hooli,+1 555 123 4567,Lead,Jul 21 2023
+John,Lee,john.lee@yahoo.com,Hooli,09171234567,MQL,2023-10-24
+Mike,Doe, mike.doe@gmail.com ,Soylent,+1 555 123 4567,MQL,08/14/2024
+Sara,Clark,,Acme Inc,+1 555 123 4567,lead,2022-09-26
+David,Lee,david.lee@test.con,Umbrella Corp,09171234567,lead,Oct 18 2023
+Jane,Clark,jane.clark@yahoo.com,Soylent,(555) 123-4567,marketing qualified lead,Aug 24 2023
+Chris,Martinez,,Globex,+1 555 123 4567,marketing qualified lead,04/29/2022
+ALICE,doe,alice.doe@gmail.com,Globex,09171234567,MQL,Jun 20 2023
+Alice,lee,alice.lee@gmail.com,Initech,09171234567,MQL,2023-06-21
+Anna,davis,anna.davis@gmail,Globex,(555) 123-4567,Lead,2022-09-19
+DAVID,Smith, david.smith@yahoo.com ,asdf,09171234567,MQL,2023-01-28
+Bob,Garcia,bob.garcia@company.com,Initech,+1 555 123 4567,customer,2023-01-17
+David,smith,,Stark Industries,(555) 123-4567,MQL,2022-12-02
+Emily,Lee,emily.lee@company.com,asdf,09171234567,Lead,Jan 21 2024
+John,Johnson,john.johnson@gmail.com,Initech,+1 555 123 4567,Customer,Jan 21 2023
+Bob,martinez,bob.martinez@yahoo.com,Hooli,(555) 123-4567,lead,2022-02-14
+Sara,davis, sara.davis@gmail.com ,Soylent,5551234567,Customer,04/19/2024
+Alice,Johnson,alice.johnson@test.con,Hooli,(555) 123-4567,MQL,04/09/2023
+EMILY,doe,emily.doe@test.con,Initech,09171234567,lead,07/03/2023
+CHRIS,Doe, chris.doe@company.com ,Stark Industries,+1 555 123 4567,Lead,05/05/2024
+MIKE,Clark,,Acme Inc,09171234567,marketing qualified lead,Jul 24 2023
+ALICE,Doe,alice.doe@yahoo.com,Globex,5551234567,marketing qualified lead,Jan 17 2023
+CHRIS,doe, chris.doe@test.con ,Stark Industries,5551234567,lead,07/15/2024
+Emily,Martinez,emily.martinez@gmail.com,Umbrella Corp,09171234567,Lead,2022-12-29
+Alice,Smith, alice.smith@company.com ,Umbrella Corp,09171234567,customer,2023-05-06
+David,Johnson,david.johnson@gmail.com,Umbrella Corp,(555) 123-4567,marketing qualified lead,07/12/2023
+CHRIS,Brown,chris.brown@gmail.com,Stark Industries,(555) 123-4567,lead,04/08/2024
+Alice,Doe,alice.doe@gmail,Stark Industries,+1 555 123 4567,Lead,08/13/2023
+Alice,Johnson,alice.johnson@company.com,Soylent,+1 555 123 4567,Customer,12/19/2023
+Bob,davis, bob.davis@gmail.com ,Acme Inc,+1 555 123 4567,Lead,2023-09-09
+Emily,Johnson,emily.johnson@yahoo.com,Stark Industries,(555) 123-4567,lead,2022-01-23
+David,Garcia, david.garcia@test.con ,Soylent,+1 555 123 4567,MQL,11/06/2022
+ANNA,Garcia,anna.garcia@gmail,Stark Industries,(555) 123-4567,Lead,Nov 13 2023
+CHRIS,brown,chris.brown@gmail,Umbrella Corp,+1 555 123 4567,Lead,09/09/2023
+Emily,doe,,Globex,(555) 123-4567,MQL,Jun 21 2022
+SARA,Davis, sara.davis@gmail.com ,Initech,(555) 123-4567,lead,2024-01-08
+Alice,Martinez,alice.martinez@gmail,Umbrella Corp,+1 555 123 4567,marketing qualified lead,Mar 18 2024
+Jane,Smith,,Acme Inc,(555) 123-4567,Lead,06/28/2024
+Jane,Garcia, jane.garcia@test.con ,Hooli,+1 555 123 4567,marketing qualified lead,Aug 23 2024
+Jane,garcia,,Hooli,(555) 123-4567,Customer,10/16/2022
+ANNA,brown,anna.brown@gmail.com,Initech,09171234567,Lead,2022-04-10
+Anna,Doe,anna.doe@test.con,Hooli,(555) 123-4567,lead,Oct 20 2023
+ALICE,Davis,alice.davis@company.com,Globex,(555) 123-4567,customer,2022-03-05
+Sara,Clark,sara.clark@yahoo.com,Soylent,+1 555 123 4567,marketing qualified lead,Apr 18 2024
+Anna,Lopez,anna.lopez@gmail.com,Umbrella Corp,+1 555 123 4567,customer,Aug 08 2023
+JANE,Davis, jane.davis@yahoo.com ,Stark Industries,5551234567,Lead,02/13/2022
+Alice,Lopez,alice.lopez@gmail.com,Acme Inc,09171234567,customer,Feb 11 2023
+John,Lopez,john.lopez@gmail.com,Umbrella Corp,5551234567,Lead,Aug 04 2023
+Jane,Lopez,jane.lopez@gmail,test,09171234567,MQL,Jan 28 2023
+Mike,Brown, mike.brown@test.con ,Acme Inc,09171234567,MQL,2023-12-09
+Sara,Smith,sara.smith@company.com,Initech,09171234567,Customer,2023-12-03
+Anna,Garcia,anna.garcia@gmail.com,Globex,09171234567,Lead,07/24/2024
+John,clark, john.clark@gmail ,Umbrella Corp,5551234567,customer,Jun 19 2024
+JOHN,johnson,john.johnson@company.com,Hooli,5551234567,MQL,01/13/2023
+John,Johnson,john.johnson@yahoo.com,Stark Industries,09171234567,customer,07/19/2023
+JANE,lee,jane.lee@gmail,Stark Industries,5551234567,Lead,2023-10-25
+John,smith,john.smith@yahoo.com,Soylent,+1 555 123 4567,Lead,Sep 16 2022
+Chris,Martinez,chris.martinez@test.con,Initech,5551234567,marketing qualified lead,Nov 06 2022
+John,Clark,john.clark@company.com,Soylent,(555) 123-4567,MQL,2023-12-02
+Sara,Lee,sara.lee@company.com,Globex,5551234567,customer,2024-02-23
+Emily,Martinez,emily.martinez@gmail.com,Hooli,09171234567,MQL,09/23/2022
+Emily,Johnson,emily.johnson@gmail,Hooli,09171234567,Customer,Jan 03 2023
+David,Brown,david.brown@company.com,Hooli,5551234567,Customer,07/10/2024
+Chris,Martinez,chris.martinez@company.com,Soylent,(555) 123-4567,marketing qualified lead,2024-05-21
+Emily,doe, emily.doe@gmail.com ,Stark Industries,09171234567,customer,11/02/2022
+Bob,Garcia,bob.garcia@test.con,Globex,(555) 123-4567,Customer,2022-07-04
+John,Smith, john.smith@yahoo.com ,Soylent,5551234567,marketing qualified lead,2024-03-15
+Mike,davis,mike.davis@yahoo.com,N/A,(555) 123-4567,lead,07/02/2024
+Bob,Johnson, bob.johnson@yahoo.com ,Acme Inc,09171234567,customer,08/26/2023
+Chris,Davis,chris.davis@company.com,Umbrella Corp,5551234567,MQL,07/12/2024
+Mike,Smith, mike.smith@yahoo.com ,Globex,+1 555 123 4567,customer,2023-06-01
+Mike,Lee, mike.lee@gmail ,Acme Inc,+1 555 123 4567,Customer,2024-05-06
+Jane,Clark, jane.clark@yahoo.com ,Hooli,+1 555 123 4567,MQL,Mar 07 2023
+Alice,martinez,alice.martinez@gmail,Acme Inc,(555) 123-4567,lead,2024-03-14
+David,Johnson,,Acme Inc,09171234567,Lead,12/06/2023
+Jane,lopez,jane.lopez@gmail.com,Stark Industries,+1 555 123 4567,Customer,2024-01-11
+Chris,lee,chris.lee@yahoo.com,Stark Industries,+1 555 123 4567,MQL,Jan 04 2023
+John,Smith,john.smith@yahoo.com,Initech,(555) 123-4567,marketing qualified lead,Sep 05 2024
+SARA,Brown,sara.brown@test.con,Initech,09171234567,Customer,05/21/2024
+Jane,brown,jane.brown@yahoo.com,Acme Inc,09171234567,customer,May 10 2023
+SARA,Lopez,,Umbrella Corp,09171234567,lead,06/27/2024
+John,Clark,,Globex,(555) 123-4567,customer,Jun 20 2023
+Bob,Davis,bob.davis@test.con,Globex,+1 555 123 4567,lead,2023-10-21
+Alice,Doe,alice.doe@company.com,Initech,+1 555 123 4567,customer,Aug 17 2022
+Anna,Davis,anna.davis@test.con,Umbrella Corp,(555) 123-4567,lead,May 25 2023
+DAVID,clark,david.clark@gmail,Soylent,(555) 123-4567,customer,2023-07-30
+John,Johnson,john.johnson@gmail,Soylent,09171234567,Customer,11/04/2023
+Bob,Smith,bob.smith@company.com,Soylent,(555) 123-4567,Customer,2022-04-19
+Mike,doe,mike.doe@gmail.com,Stark Industries,09171234567,Lead,2023-04-14
+Emily,Doe,emily.doe@gmail,Soylent,5551234567,marketing qualified lead,Jan 05 2022
+Emily,Davis, emily.davis@yahoo.com ,Hooli,5551234567,Customer,2024-04-14
+Sara,Clark,sara.clark@gmail,Hooli,5551234567,MQL,02/12/2023
+Mike,Lopez,mike.lopez@company.com,Stark Industries,(555) 123-4567,Customer,Jan 25 2024
+Chris,garcia,chris.garcia@yahoo.com,Soylent,(555) 123-4567,Customer,04/29/2022
+Mike,Clark,,Soylent,+1 555 123 4567,lead,2023-01-26
+Alice,lee, alice.lee@gmail.com ,Hooli,(555) 123-4567,Lead,Feb 11 2024
+David,Johnson,david.johnson@yahoo.com,Soylent,(555) 123-4567,Customer,2023-11-12
+SARA,Clark,sara.clark@yahoo.com,Soylent,09171234567,Lead,Jul 22 2024
+DAVID,Lopez, david.lopez@yahoo.com ,Initech,09171234567,Lead,2023-12-01
+Mike,Smith,mike.smith@yahoo.com,Globex,(555) 123-4567,lead,12/05/2022
+SARA,Lopez,,Stark Industries,(555) 123-4567,marketing qualified lead,Mar 19 2024
+David,Johnson, david.johnson@gmail ,Globex,09171234567,customer,07/04/2023
+Sara,Garcia, sara.garcia@gmail ,Soylent,09171234567,customer,Apr 23 2024
+Emily,lopez,,Umbrella Corp,+1 555 123 4567,marketing qualified lead,Sep 20 2022
+Sara,Clark,sara.clark@gmail.com,Initech,5551234567,MQL,2023-06-11
+DAVID,clark,david.clark@yahoo.com,Stark Industries,09171234567,lead,Jul 30 2022
+Mike,doe, mike.doe@test.con ,Hooli,(555) 123-4567,lead,2022-03-31
+Emily,Johnson,emily.johnson@test.con,N/A,09171234567,marketing qualified lead,2022-11-20
+Emily,smith, emily.smith@gmail ,Acme Inc,(555) 123-4567,Customer,Nov 05 2022
+Mike,Smith, mike.smith@yahoo.com ,Hooli,09171234567,customer,Oct 30 2022
+Sara,Smith,sara.smith@gmail.com,Acme Inc,+1 555 123 4567,customer,09/03/2023
+Sara,Johnson,sara.johnson@gmail,Globex,5551234567,Lead,Aug 15 2022
+Emily,Smith,emily.smith@gmail,Umbrella Corp,+1 555 123 4567,MQL,2023-11-19
+SARA,Garcia,sara.garcia@gmail.com,Initech,+1 555 123 4567,Lead,11/22/2022
+Emily,Brown,emily.brown@company.com,Umbrella Corp,5551234567,lead,2022-11-17
+CHRIS,Garcia,chris.garcia@test.con,Umbrella Corp,09171234567,MQL,03/04/2024
+Jane,lee,,N/A,(555) 123-4567,Customer,Jun 26 2024
+Emily,Lopez,emily.lopez@gmail.com,Soylent,(555) 123-4567,customer,Jul 04 2024
+Bob,Lopez, bob.lopez@test.con ,Soylent,+1 555 123 4567,marketing qualified lead,Jan 08 2023
+Emily,brown,,Globex,5551234567,Customer,01/20/2024
+Bob,Doe,,Soylent,(555) 123-4567,marketing qualified lead,04/26/2023
+Jane,Clark,jane.clark@company.com,Soylent,5551234567,marketing qualified lead,11/01/2023
+David,Lee,,Umbrella Corp,(555) 123-4567,MQL,05/14/2023
+Anna,Brown,anna.brown@company.com,Globex,5551234567,Lead,06/11/2022
+Mike,Garcia,,-,5551234567,customer,Jun 15 2022
+ALICE,Clark,alice.clark@gmail.com,test,(555) 123-4567,Lead,06/14/2023
+Jane,Johnson,jane.johnson@test.con,Globex,5551234567,marketing qualified lead,2023-09-08
+DAVID,Lee,,Soylent,+1 555 123 4567,Lead,01/23/2023
+David,Martinez, david.martinez@yahoo.com ,Umbrella Corp,+1 555 123 4567,customer,2023-05-31
+David,Smith,david.smith@test.con,Soylent,09171234567,MQL,2024-06-14
+Anna,Martinez,anna.martinez@gmail,Acme Inc,09171234567,Lead,09/18/2022
+Emily,clark,emily.clark@gmail.com,Soylent,+1 555 123 4567,customer,01/08/2022
+SARA,Doe,sara.doe@company.com,Initech,09171234567,customer,Jan 10 2023
+Mike,Clark,mike.clark@company.com,Soylent,09171234567,MQL,Nov 11 2022
+Jane,Johnson,jane.johnson@yahoo.com,Acme Inc,5551234567,customer,02/15/2023
+John,Brown,,Stark Industries,5551234567,marketing qualified lead,Aug 06 2024
+JANE,Lopez, jane.lopez@test.con ,Soylent,(555) 123-4567,Customer,Sep 13 2024
+ANNA,Davis,anna.davis@gmail,Initech,5551234567,lead,Mar 13 2024
+John,garcia,john.garcia@yahoo.com,Acme Inc,(555) 123-4567,marketing qualified lead,Dec 28 2022
+Jane,Doe,jane.doe@gmail,Soylent,(555) 123-4567,MQL,09/13/2024
+MIKE,lopez,mike.lopez@gmail,Acme Inc,+1 555 123 4567,customer,10/29/2022
+David,Lopez,david.lopez@test.con,Soylent,09171234567,Lead,02/15/2024
+Emily,Smith,emily.smith@test.con,Hooli,5551234567,Customer,2023-12-20
+David,Smith, david.smith@company.com ,Acme Inc,09171234567,Customer,02/06/2024
+Sara,Johnson,sara.johnson@yahoo.com,Umbrella Corp,5551234567,Lead,2024-01-24
+Bob,Lopez,bob.lopez@gmail.com,Acme Inc,09171234567,customer,Jan 07 2022
+Sara,Davis,sara.davis@gmail,Stark Industries,(555) 123-4567,marketing qualified lead,Jul 07 2022
+John,Clark,john.clark@gmail,Acme Inc,(555) 123-4567,marketing qualified lead,May 31 2024
+David,davis,david.davis@yahoo.com,Umbrella Corp,+1 555 123 4567,MQL,Jan 06 2023
+Chris,Davis,chris.davis@yahoo.com,Umbrella Corp,09171234567,Lead,Mar 06 2023
+Anna,Brown,anna.brown@yahoo.com,Stark Industries,+1 555 123 4567,Customer,2022-10-04
+Alice,davis,alice.davis@test.con,Globex,(555) 123-4567,marketing qualified lead,11/04/2022
+Alice,Smith,alice.smith@gmail.com,Umbrella Corp,(555) 123-4567,MQL,01/05/2023
+JOHN,Martinez,john.martinez@gmail,Globex,5551234567,MQL,12/30/2022
+Jane,Martinez,jane.martinez@yahoo.com,Stark Industries,5551234567,Customer,04/07/2024
+JANE,Doe,jane.doe@company.com,Hooli,(555) 123-4567,Customer,Oct 01 2022
+Sara,Lopez,sara.lopez@yahoo.com,Globex,+1 555 123 4567,Lead,2024-01-16
+JANE,johnson,jane.johnson@gmail.com,Umbrella Corp,+1 555 123 4567,lead,02/29/2024
+EMILY,Brown,emily.brown@test.con,Initech,5551234567,Lead,01/26/2024
+ALICE,Smith,alice.smith@company.com,Stark Industries,09171234567,marketing qualified lead,Sep 25 2024
+EMILY,Brown,emily.brown@test.con,Initech,5551234567,Lead,01/26/2024
+Emily,Davis,emily.davis@test.con,Soylent,09171234567,Lead,2024-04-16
+Mike,doe,mike.doe@gmail.com,Stark Industries,09171234567,Lead,2023-04-14
+Mike,Smith,mike.smith@yahoo.com,Globex,(555) 123-4567,lead,12/05/2022
+EMILY,Johnson,,Stark Industries,09171234567,customer,2022-12-02
+Sara,Garcia, sara.garcia@gmail ,Soylent,09171234567,customer,Apr 23 2024
+MIKE,brown,mike.brown@yahoo.com,Globex,5551234567,customer,06/24/2023
+Anna,Garcia,anna.garcia@gmail.com,Globex,09171234567,Lead,07/24/2024
+Mike,Lopez, mike.lopez@yahoo.com ,Stark Industries,5551234567,Lead,06/21/2024
+Anna,Lopez,anna.lopez@gmail.com,Umbrella Corp,+1 555 123 4567,customer,Aug 08 2023
+Bob,Smith,bob.smith@yahoo.com,Umbrella Corp,(555) 123-4567,Customer,May 01 2022
+SARA,Doe,sara.doe@company.com,Initech,09171234567,customer,Jan 10 2023
+Bob,Lee,,Stark Industries,(555) 123-4567,lead,Jul 03 2023
+Anna,Davis,anna.davis@test.con,Umbrella Corp,(555) 123-4567,lead,May 25 2023
+John,Clark,,Globex,(555) 123-4567,customer,Jun 20 2023
+Sara,clark,sara.clark@test.con,Soylent,5551234567,marketing qualified lead,Apr 15 2022
+Emily,clark,emily.clark@gmail.com,Soylent,+1 555 123 4567,customer,01/08/2022
+Jane,Lopez,jane.lopez@yahoo.com,Globex,09171234567,marketing qualified lead,Oct 04 2022
+Alice,Doe,alice.doe@company.com,Soylent,09171234567,Customer,03/24/2022
+Jane,brown, jane.brown@test.con ,Umbrella Corp,5551234567,customer,01/28/2023
+Anna,johnson,anna.johnson@gmail.com,test,+1 555 123 4567,customer,Feb 29 2024
+Mike,Doe, mike.doe@gmail.com ,Soylent,+1 555 123 4567,MQL,08/14/2024
+Emily,Smith,emily.smith@test.con,Hooli,5551234567,Customer,2023-12-20
+David,Smith,david.smith@gmail,Soylent,+1 555 123 4567,lead,2024-02-27
+John,Martinez, john.martinez@gmail.com ,Globex,5551234567,Lead,07/04/2023
+Anna,Lopez,anna.lopez@gmail.com,Hooli,(555) 123-4567,Lead,03/31/2023
+Jane,Johnson,jane.johnson@test.con,Globex,5551234567,marketing qualified lead,2023-09-08
+John,Brown,john.brown@yahoo.com,Soylent,5551234567,Customer,04/20/2024
+Jane,Clark,jane.clark@company.com,Soylent,5551234567,marketing qualified lead,11/01/2023
+SARA,Martinez,sara.martinez@gmail.com,Hooli,5551234567,customer,2023-06-18
+EMILY,brown, emily.brown@test.con ,Soylent,5551234567,marketing qualified lead,Jul 23 2024
+Chris,Doe, chris.doe@test.con ,Initech,09171234567,Customer,05/04/2024
+ALICE,Lee,alice.lee@gmail.com,Initech,09171234567,Customer,Sep 20 2022
+SARA,Davis, sara.davis@gmail.com ,Initech,(555) 123-4567,lead,2024-01-08
+John,Johnson,john.johnson@test.con,Initech,+1 555 123 4567,Lead,Jul 24 2024
+JANE,Davis,jane.davis@gmail.com,Acme Inc,(555) 123-4567,lead,10/28/2022
+Chris,Doe,,Globex,(555) 123-4567,lead,Dec 27 2023
+David,Smith,david.smith@company.com,Hooli,+1 555 123 4567,marketing qualified lead,Dec 29 2022
+JANE,johnson,jane.johnson@gmail.com,Umbrella Corp,+1 555 123 4567,lead,02/29/2024
+Mike,Garcia,,Acme Inc,5551234567,customer,11/26/2023
+Alice,Johnson,alice.johnson@company.com,Soylent,+1 555 123 4567,Customer,12/19/2023
+Sara,Clark,sara.clark@gmail,Hooli,09171234567,lead,Mar 01 2024
+ANNA,lee, anna.lee@yahoo.com ,Hooli,09171234567,Customer,Sep 21 2022
+EMILY,Lopez,emily.lopez@gmail.com,Stark Industries,5551234567,Customer,08/05/2022
+Bob,Lopez,bob.lopez@gmail.com,Acme Inc,09171234567,customer,Jan 07 2022
+Bob,Lopez,bob.lopez@yahoo.com,Soylent,(555) 123-4567,Customer,Feb 13 2024
+Chris,Davis,chris.davis@yahoo.com,Umbrella Corp,09171234567,Lead,Mar 06 2023
+Mike,davis,mike.davis@yahoo.com,N/A,(555) 123-4567,lead,07/02/2024
+David,Johnson,,Acme Inc,09171234567,Lead,12/06/2023
+Jane,Garcia, jane.garcia@test.con ,Hooli,+1 555 123 4567,marketing qualified lead,Aug 23 2024
+John,Brown,john.brown@gmail,Initech,09171234567,lead,Apr 25 2023
+Mike,Clark,mike.clark@test.con,Umbrella Corp,09171234567,marketing qualified lead,2022-06-21
+Mike,Brown,mike.brown@yahoo.com,Stark Industries,+1 555 123 4567,customer,Dec 26 2022
+Jane,Davis, jane.davis@gmail.com ,Acme Inc,+1 555 123 4567,lead,2024-08-06
+John,smith,john.smith@yahoo.com,Soylent,+1 555 123 4567,Lead,Sep 16 2022
+Alice,Lopez,alice.lopez@gmail.com,Acme Inc,09171234567,customer,Feb 11 2023
+ANNA,Garcia,anna.garcia@gmail,Stark Industries,(555) 123-4567,Lead,Nov 13 2023
+Sara,lopez,sara.lopez@gmail.com,Umbrella Corp,+1 555 123 4567,MQL,2024-01-02
+EMILY,doe,emily.doe@test.con,Initech,09171234567,lead,07/03/2023
+Bob,Doe,,Soylent,(555) 123-4567,marketing qualified lead,04/26/2023
+John,Doe,john.doe@test.con,Soylent,09171234567,marketing qualified lead,2022-10-07
+Emily,Lopez,emily.lopez@company.com,Soylent,+1 555 123 4567,Lead,Apr 27 2023
+Alice,Lopez, alice.lopez@gmail.com ,Acme Inc,+1 555 123 4567,Customer,03/13/2024
+Chris,Martinez,,Globex,+1 555 123 4567,marketing qualified lead,04/29/2022
+Emily,Brown,emily.brown@company.com,Umbrella Corp,5551234567,lead,2022-11-17
+Jane,Garcia,jane.garcia@yahoo.com,Stark Industries,(555) 123-4567,customer,2023-08-28
+Bob,Martinez,bob.martinez@company.com,Initech,(555) 123-4567,customer,2023-09-03
+Mike,Smith, mike.smith@yahoo.com ,Globex,+1 555 123 4567,customer,2023-06-01
+Emily,Johnson,emily.johnson@yahoo.com,Stark Industries,(555) 123-4567,lead,2022-01-23
+Jane,Clark, jane.clark@yahoo.com ,Hooli,+1 555 123 4567,MQL,Mar 07 2023
+ANNA,garcia,anna.garcia@gmail.com,Acme Inc,(555) 123-4567,Customer,Apr 22 2022
+Bob,Garcia,bob.garcia@gmail,Acme Inc,(555) 123-4567,Lead,May 14 2022
+Sara,Smith,sara.smith@gmail.com,Acme Inc,+1 555 123 4567,customer,09/03/2023
+John,Clark,john.clark@gmail,Acme Inc,(555) 123-4567,marketing qualified lead,May 31 2024
+EMILY,Johnson, emily.johnson@gmail ,Stark Industries,+1 555 123 4567,customer,11/28/2022
+Emily,Johnson,emily.johnson@test.con,N/A,09171234567,marketing qualified lead,2022-11-20
+Emily,Clark,emily.clark@test.con,Globex,09171234567,marketing qualified lead,2022-09-23
+Mike,Garcia,mike.garcia@test.con,Umbrella Corp,+1 555 123 4567,Customer,Sep 14 2024
+David,Clark,david.clark@gmail,Acme Inc,09171234567,marketing qualified lead,Feb 14 2022
+ALICE,Clark,alice.clark@yahoo.com,Initech,09171234567,customer,02/24/2022
